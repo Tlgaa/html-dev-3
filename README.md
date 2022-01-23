@@ -1,1 +1,2 @@
-# html-dev-3
+# Kazandibi hakkında
+* Tarifi ve içindekiler.
